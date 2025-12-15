@@ -4,7 +4,6 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-4.9-blue?logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![License](https://img.shields.io/badge/License-MIT-green)
 
 > Projeto desenvolvido no curso de **Programação Full Stack, Senai**. Primeiro projeto em Angular.
 
@@ -73,6 +72,3 @@ Este conteúdo destina-se apenas a aprendizado, experimentação e demonstraçã
 Agradecemos a compreensão e respeitamos os direitos dos autores originais. 
 
 **Por favor, não me processe** 🙏.
-
-
-ng build --configuration production --base-href /Gaming-Zone/

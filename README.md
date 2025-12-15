@@ -37,8 +37,12 @@ Este projeto representa meu **primeiro contato com Angular**, servindo como base
 - Layout responsivo
 - Efeitos de animação para maior dinamismo
 
-
 ---
+
+## 🧠 Próximos passos
+
+- Realizar a integração do Front-End com o Back-End, configurando os métodos de requisição e aplicando o tratamento de falhas nas mensagens do servidor.
+- Aplicar boas práticas relativas à segurança da informação. 
 
 ## 🚀 Deploy no GitHub Pages
 
